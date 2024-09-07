@@ -29,8 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sin0fgreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sin0fgreed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratik-adhikari-3769b498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-adhikari-3769b498" height="30" width="40" /></a>
 <a href="https://instagram.com/gr3.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gr3.___" height="30" width="40" /></a>
+<a href="https://discord.gg/gr3.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gr3.___" height="30" width="40" /></a>
 <a href="/https://sin0fgreed.github.io/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sin0fgreed.github.io/profile/" height="30" width="40" /></a>
 </p>
 
