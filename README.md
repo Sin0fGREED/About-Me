@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Swift**
 
-- 📝 I rarely write articles on [https://sin0fgreed.github.io/PROFILE/](https://sin0fgreed.github.io/Website/)
+- 📝 I rarely write articles on [My Personal Site](https://sin0fgreed.github.io/Website/)
 
 - 💬 Ask me about **🏀,⚽ and Gaming**
 
