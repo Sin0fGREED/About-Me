@@ -22,6 +22,8 @@
 - 💬 Ask me about **🏀,⚽ and Gaming**
 
 - ⚡ Fun fact **Did you know an octopus has 3 Hearts ❤️**
+  
+- ✉ Feel free to email me if you have any questions at: GREED@hktgreed.uk
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sin0fgreed&theme=solarized-light&hide_progress=true)
