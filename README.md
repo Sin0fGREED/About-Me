@@ -41,6 +41,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sin0fgreed&show_icons=true&locale=en&layout=compact" alt="sin0fgreed" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sin0fgreed&show_icons=true&locale=en" alt="sin0fgreed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sin0fgreed&" alt="sin0fgreed" /></p>
