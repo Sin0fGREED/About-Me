@@ -10,8 +10,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sin0fgreed&color=fdf6e3" alt="sin0fgreed" /></a> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sin0fgreed&theme=solarized-light&hide_progress=true)
-<p&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sin0fgreed&theme=solarized-light&show_icons=true&locale=en" alt="sin0fgreed" /></p>
-<p<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=sin0fgreed&theme=solarized-light&" alt="sin0fgreed" /></p>
+
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sin0fgreed&theme=solarized-light&show_icons=true&locale=en" alt="sin0fgreed" /></p>
+
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=sin0fgreed&theme=solarized-light&" alt="sin0fgreed" /></p>
 
 
 
