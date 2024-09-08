@@ -32,7 +32,7 @@
 <a href="https://instagram.com/gr3.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gr3.___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratikadhikari10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratikadhikari10" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/studyspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/studyspace" height="30" width="40" /></a>
-<a href="/https://sin0fgreed.github.io/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sin0fgreed.github.io/profile/" height="30" width="40" /></a>
+<a href="https://sin0fgreed.github.io/Website/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sin0fgreed.github.io/profile/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
