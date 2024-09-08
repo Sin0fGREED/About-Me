@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">I'm a passionate student studying software engineering, eager to learn and grow in the field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sin0fgreed&label=Profile%20views&color=#002b36;&style=flat" alt="sin0fgreed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sin0fgreed&label=Profile%20views&color=002b36;&style=flat" alt="sin0fgreed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sin0fgreed" alt="sin0fgreed" /></a> </p>
 
