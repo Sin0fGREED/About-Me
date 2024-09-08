@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **C, Swift and Javascript**
 
-- 👯 I’m looking to collaborate on **A python based project**
+- 👯 I’m looking to collaborate on **a python based project**
 
 - 🤝 I’m looking for help with **Swift**
 
-- 📝 I regularly write articles on [https://sin0fgreed.github.io/PROFILE/](https://sin0fgreed.github.io/PROFILE/)
+- 📝 I rarely write articles on [https://sin0fgreed.github.io/PROFILE/](https://sin0fgreed.github.io/PROFILE/)
 
 - 💬 Ask me about **🏀,⚽ and Gaming**
 
