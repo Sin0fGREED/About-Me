@@ -42,7 +42,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sin0fgreed&theme=solarized-light&hide_progress=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sin0fgreed&theme=solarized-light&show_icons=true&locale=en" alt="sin0fgreed" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sin0fgreed&theme=solarized-light&show_icons=true&locale=en" alt="sin0fgreed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sin0fgreed&theme=solarized-light&" alt="sin0fgreed" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sin0fgreed&theme=solarized-light&" alt="sin0fgreed" /></p>
 
