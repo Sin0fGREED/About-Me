@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sin0fgreed&color=fdf6e3" alt="sin0fgreed" /></a> </p>
 
-- 🔭 I’m currently working on **my website**
+- 🔭 I’m currently working on **my school projects**
 
 - 🌱 I’m currently learning **C, Swift and Javascript**
 
